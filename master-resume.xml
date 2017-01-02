@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resume>
+  <info>
+    <firstname>Thomas</firstname>
+    <lastname>Mercier</lastname>
+    <dateofbirth>1991-03-18</dateofbirth>
+    <phone>+41 79 859 53 56</phone>
+    <email>mercier.t@gmail.com</email>
+    <nationality>French</nationality>
+    <streetadress>
+      <street>Jaquet Droz 6</street>
+      <city>La Chaux-de-Fowds</city>
+      <zipcode>2300</zipcode>
+      <country>Switzerland</country>
+    </streetadress>
+  </info>
+
+  <education>
+    <institution>
+      <name>Mines ParisTech</name>
+      <location>
+        <city>Paris</city>
+        <country>France</country>
+      </location>
+      <startdate>2010-09-01</startdate>
+      <enddate>2013-07-01</enddate>
+      <diploma>Master's Degree in General Engineering</diploma>
+    </institution>
+    <institution>
+      <name>Ecole Normale Superieure (ENS)</name>
+      <location>
+        <city>Paris</city>
+        <country>France</country>
+      </location>
+      <startdate>2013-09-01</startdate>
+      <enddate>2014-07-01</enddate>
+      <diploma>Master's Degree in Solid State Physics</diploma>
+    </institution>
+    <institution>
+      <name>Udacity</name>
+      <diploma>Machine Learning Engineer Nanodegree</diploma>
+    </institution>
+  </education>
+
+  <workexperience>
+    <position>
+      <organization>TAG Heuer</organization>
+      <location>
+        <city>La Chaux-de-Fonds</city>
+        <country>Switzerland</country>
+      </location>
+      <title>R&amp;D Scientist / Project Manager</title>
+      <startdate>2015-01-07</startdate>
+      <project>Manage a multinational team of 6 people (engineers, PhD candidate and worker)</project>
+      <project>Develop a mathematical model for watch oscillators using advanced calculus and dynamical systems theory</project>
+      <project>Build testbenches and signal processing algorithms (in Matlab) for timing measurment with 1 ppm accuracy</project>
+      <project>Invented a new oscilltor with thickness reduction of ~75 %</project>
+      <project>Develop a new processing method for watch oscillators with cost reduction of ~95 % (estimated) and improved design possibilities</project>
+      <project>Develop an optimization algorithm for post-processing tuning increasing yield by ~500 % (estimated)</project>
+    </position>
+    <position>
+      <organization>ESPCI ParisTech</organization>
+      <location>
+        <city>Paris</city>
+        <country>France</country>
+      </location>
+      <title>Experimental Physics Intern</title>
+      <startdate>2014-01-07</startdate>
+      <enddate>2014-05-01</enddate>
+      <project>Optimized a cleanroom process for fabrication of superconducting nanowires</project>
+      <project>Build a workbench and controller (with Labview) for liquid helium cooled, temperature stabilized, low current measurments</project>
+    </position>
+    <position>
+      <organization>ONERA - The French Aerospace Lab</organization>
+      <location>
+        <city>Chatillon</city>
+        <country>France</country>
+      </location>
+      <title>Computational Physics Intern</title>
+      <startdate>2013-01-07</startdate>
+      <enddate>2013-06-30</enddate>
+      <project>Developed a simulation code (in C++) for electronic structure of cristals (still in use as of today)</project>
+      <project>Investigated the effects of isolated defects in graphene</project>
+      <project>Created a visualisation tool to compare with experimental data</project>
+    </position>
+    <position>
+      <organization>Michelin Americas</organization>
+      <location>
+        <city>Greenville</city>
+        <state>SC</state>
+        <country>USA</country>
+      </location>
+      <title>R&amp;D Engineer (Intern)</title>
+      <startdate>2012-06-01</startdate>
+      <enddate>2012-09-30</enddate>
+      <project>Created a benchmark of finite element methods for fracture simulation</project>
+      <project>Programmed a crack propagation script (in Python) interfaced with an FEM software (Abaqus)</project>
+    </position>
+    <position>
+      <organization>Paris Institute of Astrophysics</organization>
+      <location>
+        <city>Paris</city>
+        <country>France</country>
+      </location>
+      <title>Computational Physics Intern</title>
+      <startdate>2011-09-01</startdate>
+      <enddate>2012-01-30</enddate>
+      <project>Developed a simulation code (in C++) for thermal counterpart in Gamma Ray Bursts</project>
+      <project>Fitted simulated and experimental data to prove relevence of the approach</project>
+    </position>
+  </workexperience>
+  <skills>
+    <languages>
+      <skill level="5">French</skill>
+      <skill level="5">English</skill>
+      <skill level="2">German</skill>
+    </languages>
+    <programminglanguages>
+      <skill level="5">C++</skill>
+      <skill level="5">Python</skill>
+      <skill level="3">Julia</skill>
+      <skill level="3">Java</skill>
+      <skill level="5">XML</skill>
+      <skill level="4">HTML</skill>
+      <skill level="4">CSS</skill>
+      <skill level="4">PHP</skill>
+      <skill level="5">Latex</skill>
+      <skill level="3">JavaScript</skill>
+    </programminglanguages>
+    <softwares>
+      <skill level="4">Matlab</skill>
+      <skill level="4">Octave</skill>
+      <skill level="3">Scilab</skill>
+      <skill level="3">Mathematica</skill>
+      <skill level="3">PTC Creo (Pro/ENGINEER)</skill>
+      <skill level="3">Solidworks</skill>
+      <skill level="4">Abaqus</skill>
+      <skill level="4">ANSYS</skill>
+      <skill level="3">GIMP</skill>
+    </softwares>
+    <fields>
+      <skill level="4">Signal Processing</skill>
+      <skill level="5">Algebra</skill>
+      <skill level="5">Calculus</skill>
+      <skill level="4">Statistics</skill>
+      <skill level="4">Machine Learning</skill>
+      <skill level="4">Optimization</skill>
+      <skill level="4">Data Analysis</skill>
+      <skill level="4">Quantum Mechanics</skill>
+      <skill level="4">Material Science</skill>
+      <skill level="4">Microfabrication</skill>
+      <skill level="5">Rapid Prototyping</skill>
+      <skill level="3">Printed Circuit Board Processing</skill>
+      <skill level="3">System Administration</skill>
+      <skill level="3">Network Administration</skill>
+    </fields>
+  </skills>
+
+</resume>
