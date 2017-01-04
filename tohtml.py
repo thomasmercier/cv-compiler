@@ -9,6 +9,7 @@ print('<!DOCTYPE html>')
 print('<html>')
 print('<head>')
 print('<title>' + root.find('info').find('firstname').text + ' ' + root.find('info').find('lastname').text + ' -- Master Resume</title>')
+print('<link rel="stylesheet" href="cv.css">') 
 print('</head>')
 print('<body>')
 
