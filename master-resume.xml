@@ -17,7 +17,7 @@
   </info>
   <statements>
     <statement target="generic">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</statement>
-  </statement>
+  </statements>
   <education>
     <institution>
       <name>Mines ParisTech</name>
@@ -54,6 +54,7 @@
       </location>
       <title>R&amp;D Scientist / Project Manager</title>
       <startdate>2015-01-07</startdate>
+      <enddate>present</enddate>      
       <project>Manage a multinational team of 6 people (engineers, PhD candidate and worker)</project>
       <project>Develop a mathematical model for watch oscillators using advanced calculus and dynamical systems theory</project>
       <project>Build testbenches and signal processing algorithms (in Matlab) for timing measurment with 1 ppm accuracy</project>
