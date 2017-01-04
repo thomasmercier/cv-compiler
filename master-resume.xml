@@ -15,7 +15,9 @@
       <country>Switzerland</country>
     </streetadress>
   </info>
-
+  <statements>
+    <statement target="generic">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</statement>
+  </statement>
   <education>
     <institution>
       <name>Mines ParisTech</name>
@@ -156,5 +158,13 @@
       <skill level="3">Network Administration</skill>
     </fields>
   </skills>
+  <miscelaneous>
+    <experience>
+      <startdate>2011-11-01</startdate>
+      <enddate>2012-05-01</enddate>
+      <title>Medical sole development</title>
+      <description>Mechanical and electronic design of an instrumented, wearable sole to improve recovery and prevent refracture.</description>
+    </experience>
+  </miscelaneous>
 
 </resume>
